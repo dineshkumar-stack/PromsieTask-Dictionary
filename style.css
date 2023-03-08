@@ -1,0 +1,34 @@
+.navbar {
+    border-top-style: solid;
+    border-image: linear-gradient(139deg, #fb8817, #ff4b01, #c12127, #e02aff) 3;
+}
+
+.btn-outline-success {
+    color: black;
+}
+
+body {
+    border-bottom-style: solid;
+    border-image: linear-gradient(139deg, #fb8817, #ff4b01, #c12127, #e02aff) 3;
+}
+
+.card {
+
+    margin: 20px;
+}
+
+#main {
+    background: #faf6f3;
+    border-style: solid;
+    border-image: linear-gradient(139deg, #ffbe7d, #ff8352, #ff767b, #ec80ff) 3;
+}
+
+button{
+    background: #9c653a;
+    background-color: #c12127;
+}
+
+#Display{
+    text-align: center;
+}
+
